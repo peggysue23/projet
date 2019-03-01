@@ -1,0 +1,138 @@
+
+/*style pour le jumbotron*/
+#mon_jumbo{
+    background-image: url("images/atelier1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: -2px;
+    font-family: verdana;
+
+}
+nav#menu.navbar-expand-md.navbar-dark.sticky-top.bg-default{
+background-color: black;
+}
+
+a.nav-link{
+color:#f3671f!important;
+ margin-right: 20px;
+font-size: 1.2rem;
+font-family:verdana;
+}
+    
+
+.navbar-brand{
+color: #f3671f;
+font-size: x-large;
+
+
+}
+
+
+.nav-link{
+font-size: 1,5rem;
+font-family: 'Baloo Thambi', cursive;
+font-size: x-large;
+color: #f3671f;
+}
+
+/*style interieur jumbotron*/
+#Titre {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+    font-family: 'roboto'!important;
+}
+#paragraphe1{
+text-align: center;
+color: aliceblue;
+font-weight: 500;
+font-family: verdana;
+text-shadow: 2px 2px 2px black;
+}
+a.nav-link{
+    color: #f3671f;
+     margin-right: 20px;
+    font-size: 1.2rem;
+    }
+.hr-light{
+    
+    border: 0;
+    border-top: 2px solid;
+    width: 400px;
+}
+
+
+/*fin style jumbotron*/
+
+/*Section*/
+
+div#atelier
+{
+        
+    background:rgb(243, 243, 243);
+ }
+
+ div#atelier1
+{
+        
+    background: white;
+ }
+ #barre{
+   
+    border: 0;
+    border-top: 2px solid;
+    color:  #f3671f;
+    width: 200px;
+ }
+    
+
+.image
+{
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-right: 150px;
+    -webkit-padding-start: 100px;
+    
+    
+}
+
+.image2
+{
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-right: 150px;
+    -webkit-padding-start: 50px;
+    
+}
+
+    
+/*Fin section*/
+
+/*Jumbotron pied page*/
+
+
+}
+#Titre2{
+    text-align: center;
+    color: aliceblue;
+    padding-top:50px;
+    font-weight: 500;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+/*Fin Jubotron*/
+
+/*Footer*/
+
+
+
+
+.btn{
+    
+    background: #d05c62;
+    color: white;
+    
+    }
+/*Fin footer*/
