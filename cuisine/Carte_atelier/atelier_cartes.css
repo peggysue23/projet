@@ -1,0 +1,81 @@
+
+
+social-card-header{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    
+    
+    
+}
+
+
+.social-card-header i {
+    font-size: 32px;
+    color:#FFF;
+}
+
+.bg-pinterest {
+    background-color:#bd081c;
+}
+
+.share:hover {
+        text-decoration: none;
+    opacity: 0.8;
+}
+.container {
+    position: float-left;
+  
+}
+
+.card-text {
+    font-family: verdana;
+  
+}
+
+.card-titre{
+    font-family: 'Roboto', sans-serif !important;
+  
+}
+
+.lead {
+    
+    text-align: center;
+    color: black;
+    font-weight: 500;
+    font-family: 'roboto'!important;
+}
+.intro {
+    width: 900px;
+    height: 150px;
+    padding-left: 150px;
+    text-align: justify;
+    color: black;
+    font-weight: 500;
+    font-family: 'roboto'!important;
+    font-size: 22px;
+}
+
+#Titre {
+        text-align: center;
+        color: aliceblue;
+        text-shadow: 2px 2px 2px black;
+        font-family: 'roboto'!important;
+    }
+#Titre1 {
+        text-align: center;
+        color: #d05c62;
+        text-shadow: 2px 2px 2px black;
+        font-family: 'roboto'!important;
+    }
+
+    .card-group {
+        padding-left: 100px;
+    }
+   .
+
+
